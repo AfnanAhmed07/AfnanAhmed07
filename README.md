@@ -32,6 +32,7 @@
 | **[Hangman Game](https://github.com/AfnanAhmed07/Hangman-Game)** | 🎮 A Python-based command-line Hangman game with word selection & input validation. |
 | **[Chat-Bot](https://github.com/AfnanAhmed07/Chat-Bot)** | 💬 A simple Python chatbot with rule-based conversational logic. |
 | **[Stock Portfolio Tracker](https://github.com/AfnanAhmed07/Stock-Portfolio-Tracker)** | 📈 A Python tool for tracking stock investments with real-time data visualization. |
+| **[Hospital Management System](https://github.com/AfnanAhmed07/Hospital-Management-System)** | 🏥 A SQL-based project demonstrating table creation, relationships, sample data, and queries for managing doctors and patients. |
 
 ---
 
