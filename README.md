@@ -32,7 +32,7 @@
 | **[Hangman Game](https://github.com/AfnanAhmed07/Hangman-Game)** | 🎮 A Python-based command-line Hangman game with word selection & input validation. |
 | **[Chat-Bot](https://github.com/AfnanAhmed07/Chat-Bot)** | 💬 A simple Python chatbot with rule-based conversational logic. |
 | **[Stock Portfolio Tracker](https://github.com/AfnanAhmed07/Stock-Portfolio-Tracker)** | 📈 A Python tool for tracking stock investments with real-time data visualization. |
-| **[Hospital Management System](https://github.com/AfnanAhmed07/Hospital-Management-System)** | 🏥 A SQL-based project demonstrating table creation, relationships, sample data, and queries for managing doctors and patients. |
+| **[Hospital Management System](https://github.com/AfnanAhmed07/SQL-Practice)** | 🏥 A SQL-based project demonstrating table creation, relationships, sample data, and queries for managing doctors and patients. |
 | **[Password Generator](https://github.com/AfnanAhmed07/password-generator)** | 🔐 A Python-based strong password generator with customizable length and character sets. |
 | **[Employee Data Manager](https://github.com/AfnanAhmed07/employee-management-python-mysql)** | 👨‍💼 A Python + MySQL employee management tool to add, update, and manage employee records via a menu-driven interface. |
 | **[SMS Spam Detection](https://github.com/AfnanAhmed07/-sms-spam-detection)** | 📱 A machine learning model to classify SMS messages as spam or ham using text preprocessing and classification algorithms. |
