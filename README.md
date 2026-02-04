@@ -40,10 +40,10 @@
 ---
 
 ### 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfnanAhmed07&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanAhmed07&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfnanAhmed07&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanAhmed07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
